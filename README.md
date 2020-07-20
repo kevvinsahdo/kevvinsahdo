@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi, I'm Kevvin Sahdo 🕺
 
-<!--
-**kevvinsahdo/kevvinsahdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-kevvinsahdo-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevvinsahdo/)](https://www.linkedin.com/in/kevvinsahdo/)
+[![Gmail Badge](https://img.shields.io/badge/-kevvinsahdo-black?style=flat-square&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/kevvinsahdo/)](mailto:kevvinsd@gmail.com)
 
-Here are some ideas to get you started:
+````bash
+About me:
+-> 25 years old 🧙‍♂
+-> Love web development 💻❤
+-> Brazilian 🇧🇷
+-> Graduated in UFAM - Universidade Federal do Amazonas 👨‍🎓
+-> Working on INDT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming languages:
+-> Java 
+-> Python 
+-> JavaScript 
+-> PHP
+-> bash
+
+Tools:
+-> GIT
+-> Docker
+-> AWS
+-> GCloud
+-> CircleCI
+````
+
