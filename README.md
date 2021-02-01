@@ -9,7 +9,7 @@ About me:
 -> Love web development 💻❤
 -> Brazilian 🇧🇷
 -> Graduated in UFAM - Universidade Federal do Amazonas 👨‍🎓
--> Working on INDT
+-> Working on @jusbrasil
 
 Programming languages:
 -> Java 
