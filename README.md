@@ -12,17 +12,11 @@ About me:
 -> Working on @jusbrasil
 
 Programming languages:
--> Java 
+-> Java
+-> Scala 
 -> Python 
 -> JavaScript 
 -> PHP
 -> bash
-
-Tools:
--> GIT
--> Docker
--> AWS
--> GCloud
--> CircleCI
 ````
 
