@@ -5,11 +5,10 @@
 
 ````bash
 About me:
--> 25 years old 🧙‍♂
--> Love web development 💻❤
+-> 26 years old 🧙‍♂
 -> Brazilian 🇧🇷
 -> Graduated in UFAM - Universidade Federal do Amazonas 👨‍🎓
--> Working on @jusbrasil
+-> Working on @nubank
 
 Programming languages:
 -> Java
