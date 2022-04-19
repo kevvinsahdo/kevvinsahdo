@@ -5,7 +5,6 @@
 
 ````bash
 About me:
--> 26 years old 🧙‍♂
 -> Brazilian 🇧🇷
 -> Graduated in UFAM - Universidade Federal do Amazonas 👨‍🎓
 -> Working on @nubank
