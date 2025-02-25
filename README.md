@@ -11,6 +11,7 @@ About me:
 
 Programming languages:
 -> Java
+-> Clojure
 -> Scala 
 -> Python 
 -> JavaScript 
