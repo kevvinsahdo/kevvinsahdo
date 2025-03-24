@@ -6,8 +6,8 @@
 ````bash
 About me:
 -> Brazilian 🇧🇷
--> Graduated in UFAM - Universidade Federal do Amazonas 👨‍🎓
--> Working on @nubank
+-> Graduated from UFAM - Universidade Federal do Amazonas 👨‍🎓
+-> Working at @nubank
 
 Programming languages:
 -> Java
